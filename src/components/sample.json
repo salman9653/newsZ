@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Capcom Fighting Collection - Announcement Trailer - Nintendo Switch - Nintendo",
+        "description": null,
+        "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSRhZubDIytc",
+        "urlToImage": null,
+        "publishedAt": "2022-02-21T16:00:08Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SamMobile"
+        },
+        "author": "SamMobile",
+        "title": "You can pre-order the Samsung Neo QLED 8K and 4K TV lineup from March 16 - SamMobile",
+        "description": "Amidst reports that Samsung Electronics is expected to ship around 3-3.5 million LED TV units in 2022, the company has recently ...",
+        "url": "https://www.sammobile.com/news/you-can-pre-order-samsung-neo-qled-8k-and-4k-tv-line-up-from-16-march",
+        "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/01/Samsung-Neo-QLED-TV-2022-720x405.jpg",
+        "publishedAt": "2022-02-21T15:34:00Z",
+        "content": "Amidst reports that Samsung Electronics is expected to ship around 3-3.5 million LED TV units in 2022, the company has recently announced on its official blog the pre-order and pre-registration dates… [+2010 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Inverse"
+        },
+        "author": "Corey Plante",
+        "title": "'Destiny 2: Witch Queen' launch time, file size, and maintenance details - Inverse",
+        "description": "One of the biggest 'Destiny 2' expansions — 'The Witch Queen' — is almost here. Here's everything you need to know to get ready for it.",
+        "url": "https://www.inverse.com/gaming/destiny-2-witch-queen-launch-time-maintenance-update-size-twab",
+        "urlToImage": "https://imgix.bustle.com/uploads/image/2022/2/18/94601218-9f27-4d3b-8c5f-7128e8f095f1-destiny-2_-the-witch-queen-launch-trailer-0-21-screenshot.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+        "publishedAt": "2022-02-21T15:30:25Z",
+        "content": "After years of \r\nmaneuvering behind the scenes, manipulating some of Destiny 2s major story arcs, the evil alien Hive God Savathûn is about to take the spotlight in The Witch Queen, a massive new exp… [+3781 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GSMArena.com"
+        },
+        "author": "Ro",
+        "title": "Dimensity 9000-powered vivo X80 phone tops AnTuTu, Geekbench charts - GSMArena.com news - GSMArena.com",
+        "description": "It could be the vivo X80 Pro.",
+        "url": "https://www.gsmarena.com/dimensity_9000powered_vivo_phone_posts_an_impressive_antutu_score-news-53239.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/02/vivo-x80-dimensity-9000-antutu/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2022-02-21T15:15:01Z",
+        "content": "A couple of impressive benchmark scorecards surfaced today belonging to an upcoming vivo phone. Codenamed V2186A it's a member of the vivo X80 and is powered by the Dimensity 9000 chipset by MediaTek… [+1769 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Samsung Galaxy S22 Ultra review: duly noted - The Verge",
+        "description": null,
+        "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyCmHaQHnVSk",
+        "urlToImage": null,
+        "publishedAt": "2022-02-21T15:00:26Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Realme 9 Pro Plus is now available for purchase in India: Price, Specifications, offers - gizmochina",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3Lmdpem1vY2hpbmEuY29tLzIwMjIvMDIvMjEvcmVhbG1lLTktcHJvLXBsdXMtbm93LWF2YWlsYWJsZS1mb3ItcHVyY2hhc2UtaW4taW5kaWEv0gFiaHR0cHM6Ly93d3cuZ2l6bW9jaGluYS5jb20vMjAyMi8wMi8yMS9yZWFsbWUtOS1wcm8tcGx1cy1ub3ctYXZhaWxhYmxlLWZvci1wdXJjaGFzZS1pbi1pbmRpYS8_YW1wPTE?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-02-21T14:56:04Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Realme to announce world's fastest smartphone charging tech at MWC 2022 - Android Police",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3JlYWxtZS10by1hbm5vdW5jZS13b3JsZHMtZmFzdGVzdC1jaGFyZ2luZy10ZWNoLW13Yy0yMDIyL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-02-21T13:42:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Livemint",
+        "title": "Oppo Find X5 series to feature these chipsets along with Hasselblad - Livemint",
+        "description": "Oppo might also launch Oppo Pad on February 24",
+        "url": "https://www.livemint.com/technology/oppo-find-x5-series-to-feature-these-chipsets-along-with-hasselblad-11645450281773.html",
+        "urlToImage": "https://images.livemint.com/img/2022/02/21/600x338/Oppo_Find_X5_series_1645276602056_1645450478529.jpg",
+        "publishedAt": "2022-02-21T13:39:05Z",
+        "content": "Oppo Find X5 series will use the latest Snapdragon 8 Gen 1 chipset confirmed by the brand today. The new Oppo Find X5 series will see two premium flagship smartphones; Oppo Find X5 Pro and Oppo Find … [+1421 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Grand Theft Auto 5 Next-Gen - 13 Things You Need To Know Before You Buy (For Newcomers) - GamingBolt",
+        "description": null,
+        "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV_nQXd62AqM",
+        "urlToImage": null,
+        "publishedAt": "2022-02-21T13:30:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Mid-day"
+        },
+        "author": null,
+        "title": "YouTube adds TikTok-style live rings to show when someone is streaming - Mid-Day",
+        "description": "Google-owned video-streaming giant YouTube is adding a new indicator to show when a channel is live streaming on the platform",
+        "url": "https://www.mid-day.com/technology/article/youtube-adds-tiktok-style-live-rings-to-show-when-someone-is-streaming-23215363",
+        "urlToImage": "https://images.mid-day.com/images/images/2022/feb/social media_d.jpg",
+        "publishedAt": "2022-02-21T13:30:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": null,
+        "title": "iPhone 14 production begins with trial phase; Luxshare will reportedly make only low-end models - 9to5Mac",
+        "description": "The very first phase of iPhone 14 production is reportedly underway, in a stage known as trial production. In this phase, a small number ...",
+        "url": "https://9to5mac.com/2022/02/21/iphone-14-production-trial/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/iPhone-14-production-begins-with-trial-phase.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2022-02-21T13:04:00Z",
+        "content": "The very first phase of iPhone 14 production is reportedly underway, in a stage known as trial production. In this phase, a small number of devices are assembled in order to gather data that will gui… [+1855 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Apple's Next Event: What to Expect - CNET",
+        "description": "Reports say we could see a 5G iPhone SE with a better camera, plus a revamped iPad Air. There are rumors of new Macs, too. Iyaz on Twitter: @iyazSubscribe to...",
+        "url": "https://www.youtube.com/watch?v=eA9Wrttib-0",
+        "urlToImage": "https://i.ytimg.com/vi/eA9Wrttib-0/hqdefault.jpg",
+        "publishedAt": "2022-02-21T13:00:16Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Zee Business"
+        },
+        "author": null,
+        "title": "Zee Business Tech: Redmi Note 11 review - Zee Business",
+        "description": "The Chinese smartphone brand Redmi recently launched its Note 11 smartphone in India. The newly launched device is available in three variants - 4GB + 64GB, 6GB + 64GB and 6GB + 128GB for Rs 13,499, Rs14,499 and Rs15,999. The Redmi Note 11 comes in Graphite G…",
+        "url": "https://www.zeebiz.com/technology/video-gallery-zee-business-tech-redmi-note-11-review-179286",
+        "urlToImage": "https://cdn.zeebiz.com/sites/default/files/2022/02/21/00000003_4.jpg",
+        "publishedAt": "2022-02-21T12:48:01Z",
+        "content": "Zee Business Video Team |\r\n Updated: February 21, 2022 18:18 pm \r\nThe Chinese smartphone brand Redmi recently launched its Note 11 smartphone in India. The newly launched device is available in three… [+226 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Abplive.com"
+        },
+        "author": "ABP News Bureau",
+        "title": "OnePlus Bullets Wireless Z2 India Launch Soon: Details - ABP Live",
+        "description": "OnePlus Bullets Wireless Z2, the upgraded iteration in OnePlus' neckband-style earphones, may be launched in India in March.",
+        "url": "https://news.abplive.com/technology/gadgets/oneplus-bullets-wireless-z2-india-launch-tipped-earbuds-with-bluetooth-certification-check-price-1514557",
+        "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/02/21/2ee0eea3cb8e3f4767edbb89a0b9f343_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
+        "publishedAt": "2022-02-21T12:32:21Z",
+        "content": "New Delhi: OnePlus Bullets Wireless Z2, the upgraded iteration in OnePlus' neckband-style earphones, may be launched in India next month. The OnePlus Bullets Wireless Z2 earbuds will be an upgrade fr… [+1342 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News9live.com"
+        },
+        "author": "News9 Staff",
+        "title": "Qualcomm working on AV1 support Snapdragon 8 Gen 2: Report - News9 LIVE",
+        "description": "Netflix started using AV1 video on the PS4 Pro and certain TVs in November, and Chrome introduced an ...",
+        "url": "https://www.news9live.com/technology/qualcomm-working-on-av1-support-snapdragon-8-gen-2-protocol-report-154977",
+        "urlToImage": "https://media.news9live.com/h-upload/2022/02/21/243056-qualcomm.jpg",
+        "publishedAt": "2022-02-21T12:19:22Z",
+        "content": "Samsung and MediaTek, two of Qualcomm's mobile competitors have it, and so does the tech companies like Nvidia and Netflix. AV1 is a new video codec that is being adopted by companies in the content-… [+1595 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.bgr.in"
+        },
+        "author": "BGR India",
+        "title": "Oppo Reno 7 Pro Review - BGR India",
+        "description": "The Oppo Reno 7 5G has been launched in India. The smartphone comes at a price of Rs 39999. We used the Oppo Reno Pro 5G for few weeks and here's our review.",
+        "url": "https://www.bgr.in/videos/reviews/oppo-reno-7-pro-review-specifications-price-in-india-1238835/",
+        "urlToImage": "https://st1.bgr.in/wp-content/uploads/2022/02/00000039.jpg",
+        "publishedAt": "2022-02-21T12:11:22Z",
+        "content": "The Oppo Reno 7 5G has been launched in India. The smartphone comes at a price of Rs 39,999. We used the Oppo Reno Pro 5G for few weeks and here's our review. \r\nThe Oppo Reno 7 5G has been launched i… [+410 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Elden Ring - Official Overview Trailer - IGN",
+        "description": "Prepare to embark on your quest for the fabled Elden Ring. As a Tarnished, it's up to you to take on fearsome foes, and explore the mysterious dark fantasy w...",
+        "url": "https://www.youtube.com/watch?v=VLJabIfdxpQ",
+        "urlToImage": "https://i.ytimg.com/vi/VLJabIfdxpQ/maxresdefault.jpg",
+        "publishedAt": "2022-02-21T12:10:35Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India.com"
+        },
+        "author": "Zee Media Bureau",
+        "title": "Apple iPhone 13 available at Rs 59,400 on Flipkart: Here`s how to avail it - Zee News",
+        "description": "Do you intend to get a brand-new iPhone 13? This is a fantastic opportunity to buy the latest Apple iPhone at a reduced price. The price of the new iPhone 13 has been drastically decreased on Flipkart, and when combined with other options, it can result in a …",
+        "url": "https://zeenews.india.com/technology/apple-iphone-13-available-at-rs-59400-on-flipkart-heres-how-to-avail-it-2438541.html",
+        "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/02/21/1016538-iphone-13-mini-and-iphone-13.jpg",
+        "publishedAt": "2022-02-21T11:47:52Z",
+        "content": "New Delhi: Do you intend to get a brand-new iPhone 13? This is a fantastic opportunity to buy the latest Apple iPhone at a reduced price. The price of the new iPhone 13 has been drastically decreased… [+2149 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Monit Khanna",
+        "title": "Apple Could Unveil 5G iPhone SE, New MacBooks, Smaller Mac Pro In March 8 Event - India Times",
+        "description": "Apple is reportedly expected to launch new series of MacBook Pro’s and Airs as well as a refreshed Mac mini and iMac Pro models getting the newer M2 Apple silicon at an event rumoured to be conducted on March 8.                        AppleAlso Read: Apple Re…",
+        "url": "https://www.indiatimes.com/technology/news/apple-march-8-event-5g-iphone-se-new-macbooks-smaller-macpro-562591.html",
+        "urlToImage": "https://im.indiatimes.in/content/2022/Feb/FB-Image-Quote-35_621375713a1a2.jpg",
+        "publishedAt": "2022-02-21T11:38:07Z",
+        "content": "Apple is reportedly expected to launch new series of MacBook Pros and Airs as well as a refreshed Mac mini and iMac Pro models getting the newer M2 Apple silicon at an event rumoured to be conducted … [+1639 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eurogamer.net"
+        },
+        "author": "Ed Nightingale",
+        "title": "Lost Ark won't increase Europe Central server capacity - Eurogamer.net",
+        "description": null,
+        "url": "https://www.eurogamer.net/articles/2022-02-21-lost-ark-wont-increase-server-capacity-in-europe",
+        "urlToImage": "https://images.gnwcdn.com/2022/articles/2022-02-21-11-23/-1645442586705.jpg/EG11/resize/1200x-1/-1645442586705.jpg",
+        "publishedAt": "2022-02-21T11:35:15Z",
+        "content": "Lost Ark won't be increasing its Europe Central server capacity any further.\r\nEuropean players of the new MMO ARPG have been experiencing long queue times since launch. \r\nIn a new blog post, the game… [+2523 chars]"
+      }
+    ]
+  }
