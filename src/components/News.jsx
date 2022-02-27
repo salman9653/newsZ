@@ -57,12 +57,16 @@ export class News extends Component {
         loading:false
     })
   }
+  capitalize = (word) => {
+    const lower = word.toLowerCase();
+    return lower.charAt(0).toUpperCase()+lower.slice(1); 
+}
 
   render() {
     return (
       <div className='container my-3'>
 
-        <h1 className='p-2 text-center'>Top Stories | {this.props.category}</h1>
+        <h1 className='p-2 text-center'>Top Stories | {this.capitalize(this.props.category)}</h1>
 
         {!this.state.loading && <div className="container d-flex justify-content-between">
           <button disabled={this.state.page<=1} className='btn btn-primary' onClick={this.handelPre}>&#10094; Privious</button>
@@ -74,12 +78,15 @@ export class News extends Component {
         <div className="row">
           {!this.state.loading && this.state.articles.map( (element) => {
             return(
-              <div className="col-lg-4 col-md-6 col-sm-12" key={element.url}>
+              <div className="row col-lg-4 col-md-6 col-sm-12" key={element.url}>
                 <NewsItem
                   title={element.title}
                   description={element.description}
                   imgUrl={element.urlToImage}
                   url={element.url}
+                  author={element.author}
+                  date={element.publishedAt}
+                  source={element.source.name}
                   />
               </div>
             )
