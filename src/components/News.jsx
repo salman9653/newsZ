@@ -7,7 +7,7 @@ import PropTypes from 'prop-types';
 export class News extends Component {
   static defaultProps = {
     country : "in",
-    pageSize : 9,
+    pageSize : 6,
     category : "general"
   }
   static propTypes = {
@@ -23,44 +23,36 @@ export class News extends Component {
       page : 1
     }
   }
-  async componentDidMount(){
-    let url= `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fd97076ba1a74c4288010115e4f2fbb4&page=1&pageSize=${this.props.pageSize}`;
-    this.setState({loading:true});
-    let data= await fetch(url);
-    let pasredData = await data.json()
-    this.setState({
-      articles : pasredData.articles,
-      totalResults : pasredData.totalResults,
-      loading:false
 
-    })
-  }
-  handelPre = async ()=>{
-    let url= `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fd97076ba1a74c4288010115e4f2fbb4&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
+  async updateNews(){
+    const url= `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fd97076ba1a74c4288010115e4f2fbb4&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     this.setState({loading:true});
     let data= await fetch(url);
     let pasredData = await data.json()
     this.setState({
-      page : this.state.page - 1,
-      articles : pasredData.articles,
+      articles : pasredData.articles,      
+      totalResults : pasredData.totalResults,
       loading:false
   })
   }
-  handelNext = async ()=>{
-      let url= `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fd97076ba1a74c4288010115e4f2fbb4&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
-      this.setState({loading:true});
-      let data= await fetch(url);
-      let pasredData = await data.json()
-      this.setState({
-        page : this.state.page + 1,
-        articles : pasredData.articles,
-        loading:false
-    })
+
+  async componentDidMount(){
+    this.updateNews();
   }
+  
+  handelPre = async ()=>{
+    this.setState({page:this.state.page - 1});
+    this.updateNews();
+  }
+  handelNext = async ()=>{
+    this.setState({page:this.state.page + 1});
+    this.updateNews();
+  }
+  
   capitalize = (word) => {
     const lower = word.toLowerCase();
     return lower.charAt(0).toUpperCase()+lower.slice(1); 
-}
+  }
 
   render() {
     return (
