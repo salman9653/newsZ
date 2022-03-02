@@ -30,17 +30,12 @@ function News(props) {
   };
 
   useEffect(() => {
-    document.title = `NewsZ | ${this.capitalize(props.category)}`;
+    document.title = `NewsZ | ${capitalize(props.category)}`;
     updateNews();
   }, []);
 
   const fetchMoreData = async () => {
-    const url = `https://newsapi.org/v2/top-headlines
-      ?country=${props.country}
-      &category=${props.category}
-      &apiKey=${props.apiKey}
-      &page=${page + 1}
-      &pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
     setPage(page + 1);
     setLoading(true);
     let data = await fetch(url);
