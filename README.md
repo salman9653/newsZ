@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/58109880/157040632-0cf14fd3-6e59-4451-a885-ce570e87bf11.png)
+
+
 This is a News App.
 Made in React.js
 
@@ -24,6 +27,7 @@ Pacakges Used
 - react-top-loading-bar ( For Displaying loading on top )
 
 
-![image](https://user-images.githubusercontent.com/58109880/157040632-0cf14fd3-6e59-4451-a885-ce570e87bf11.png)
-![Screenshot (17)](https://user-images.githubusercontent.com/58109880/157040328-c6450290-682a-4b61-866b-1e0922ba6239.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/58109880/157042231-92ac49dc-7e8d-428c-8edd-b7e6aa7d7e06.png)
+
+
 
