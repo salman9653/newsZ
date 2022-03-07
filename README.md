@@ -22,4 +22,3 @@ Pacakges Used
 - react-infnite-scroll-component ( For making app Scroll Infinitly and load more news )
 - react-router-dom ( For Routing )
 - react-top-loading-bar ( For Displaying loading on top )
--
