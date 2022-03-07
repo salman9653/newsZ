@@ -4,8 +4,8 @@ Made in React.js
 Features
 
 - Fully Responsive.
-- Catagory wise News Display.
-- Infinite scroll (Load more news as ou scroll down).
+- Category wise News Display.
+- Infinite scroll (Load more news as you scroll down).
 - Simple to use Design.
 
 Features planed for next Updates
