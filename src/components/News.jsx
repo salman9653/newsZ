@@ -48,9 +48,8 @@ function News(props) {
   return (
     <div>
       <div className="container my-4">
-        <h1 className="p-2 text-center">
-          Top Stories - {capitalize(props.category)}
-        </h1>
+        <h4 className="p-2 text-center">
+          <span style={{ fontSize: '35px' }}>T</span>OP <span style={{ fontSize: '35px' }}>S</span>TORIES - <span style={{ fontSize: '30px' }}>{capitalize(props.category)}</span></h4>
         {loading && <Spinner />}
         <InfiniteScroll
           dataLength={articles.length}

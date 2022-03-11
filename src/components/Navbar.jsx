@@ -1,7 +1,8 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 function Navbar() {
+  let location = useLocation().pathname;
   return (
     <nav className="navbar navbar-expand-lg sticky-top navbar-dark bg-dark px-5">
       <div className="container-fluid">
@@ -22,52 +23,41 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <Link className="nav-link" to="/general">
+              <Link className={`nav-link ${location === "/" && "active"} ${location === "/general" && "active"}`} to="/general">
                 General
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/entertainment">
+              <Link className={`nav-link ${location === "/entertainment" && "active"}`} to="/entertainment">
                 Entertainment
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/business">
+              <Link className={`nav-link ${location === "/business" && "active"}`} to="/business">
                 Business
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/health">
+              <Link className={`nav-link ${location === "/health" && "active"}`} to="/health">
                 Health
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/science">
+              <Link className={`nav-link ${location === "/science" && "active"}`} to="/science">
                 Science
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/sports">
+              <Link className={`nav-link ${location === "/sports" && "active"}`} to="/sports">
                 Sports
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/technology">
+              <Link className={`nav-link ${location === "/technology" && "active"}`} to="/technology">
                 Technology
               </Link>
             </li>
           </ul>
-          {/* <form className="d-flex">
-            <input
-              className="form-control me-2"
-              type="search"
-              placeholder="Search"
-              aria-label="Search"
-            />
-            <button className="btn btn-success" type="submit">
-              Search
-            </button>
-          </form> */}
         </div>
       </div>
     </nav>
